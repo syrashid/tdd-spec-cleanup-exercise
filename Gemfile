@@ -1,6 +1,6 @@
 source "https://rubygems.org"
 
-ruby "2.3.1"
+ruby "2.7.0"
 
 gem "autoprefixer-rails"
 gem "delayed_job_active_record"
@@ -9,7 +9,7 @@ gem "honeybadger"
 gem "jquery-rails"
 gem "normalize-rails", "~> 3.0.0"
 gem "pg"
-# gem "puma"
+gem "puma"
 gem "rack-canonical-host"
 gem "rails", "~> 5.0.0"
 gem "recipient_interceptor"
